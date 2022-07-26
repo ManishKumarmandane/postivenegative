@@ -5,8 +5,8 @@ public class PostiveNegative
     public static void main(String[] args)
     {
         int num = 10;
-        //if(0<num)
-        if(num>0)
+        if(0<num)
+        //if(num>0)
         {
             System.out.println("postive");
          //   System.out.println("hari");

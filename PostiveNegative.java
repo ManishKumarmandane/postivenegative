@@ -4,7 +4,8 @@ public class PostiveNegative
 {
     public static void main(String[] args)
     {
-        int num = -10;
+        int num = 10;
+        //if(0<num)
         if(num>0)
         {
             System.out.println("postive");
@@ -13,7 +14,7 @@ public class PostiveNegative
         else
         {
             System.out.println("negative");
-            System.out.println("566");
+          //  System.out.println("566");
         }
     }
 }
